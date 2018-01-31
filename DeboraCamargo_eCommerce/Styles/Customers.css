@@ -1,0 +1,29 @@
+﻿body {
+    background-color: #D3085C;
+}
+
+#txtName {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 15pt;
+    color: #F02727;
+    background-color: #90DB9A;
+    border: 1px solid #E20E19;
+}
+
+.btn {
+    background-color: #D31515;
+    border: 5px solid #161414;
+    display: inline-block;
+    font-size: 50px;
+    border-radius: 10%;
+}
+
+    .btn:hover {
+        background-color: #4CAF50; /* Green */
+        color: white;
+    }
+
+.div {
+    font-family: Verdana, Arial, Helvetica;
+    font-size: 15pt;
+}
